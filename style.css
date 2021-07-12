@@ -1,0 +1,82 @@
+@media (max-width:320px){
+    .threetwo {
+        width: 300px;
+        height: 2100px;
+        margin-left: 10px;
+        margin-right: 0px;
+        margin-top: 30px;
+        border-radius: 30px 30px 30px 30px;
+        box-shadow: -3px -3px 5px rgba(94,104,121,.288),3px 3px 5px rgba(94,104,121,.288);
+    }
+    .threetwo .first {
+        width: 300px;
+        height: 560px;
+        padding: 50px;
+            padding-left: 50px;
+        padding-left: 60px;
+        background: url('Group 387(1).png');
+            background-repeat: repeat;
+            background-size: auto;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        border-radius: 30px 30px 0px 0px;
+        display: block;
+    }
+    .threetwo .first1 h1 {
+        font-size: 40px;
+        color: white;
+        width: 180px;
+        margin-top: 10px;
+    }
+    .threetwo .first1 p {
+        color: white;
+        width: 200px;
+        font-size: 15px;
+    }
+    .threetwo .first1 button {
+        width: 130px;
+        height: 40px;
+        border-radius: 5px;
+        margin-top: 40px;
+        background: rgb(243, 142, 47);
+        color: white;
+        border: none;
+        font-size: 15px;
+        box-shadow: 0px 16px 18px -18px rgba(0, 0, 0, 0.8);
+    }
+    .threetwo .first .first2 {
+        width: 120px;
+        height: 120px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .threetwo .para {
+        width: 230px;
+        height: 100px;
+        text-align: center;
+        margin-left: 33px;
+        font-size: 14px;
+        margin-top: 40px;
+        color: #151515;
+        font-family: #151515;
+        opacity: 0.8;
+    }
+    .threetwo .third {
+        display: flex;
+        margin-top: 0px;
+        margin-left: 20px;
+        height: 100px;
+        width: 260px;
+        background: url('Group 384@2x.png');
+        background-repeat: repeat;
+        background-size: auto;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    .threetwo .third div img{
+        width: 40px;
+        height: 60px;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+}
